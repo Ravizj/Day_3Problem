@@ -15,6 +15,6 @@ public class UC_2 {
                 System.out.println(x+" X equal to Y "+y);
             }
             else
-                System.out.println(x+" X is not equal to Y  "+y);
+                System.out.println(x+" X is not equal  Y  "+y);
         }
     }
